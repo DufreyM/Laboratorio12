@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "148085499625",
+    "project_id": "laboratorio12-69bc4",
+    "storage_bucket": "laboratorio12-69bc4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148085499625:android:c592700c8be97e42c33278",
+        "android_client_info": {
+          "package_name": "com.example.laboratoriono12"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHs3w2844yB8lTReDjAf_hrmp9UrFJvpg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
