@@ -86,7 +86,7 @@ fun LocationFormScreen(navController: NavController, onConfirm: (String, String)
         TextField(
             value = symptomDescription,
             onValueChange = { symptomDescription = it },
-            label = { Text("Describe los síntomas") },
+            label = { Text("Describe los síntomas, por favor ingresa el número de telefono para que el especialista se pueda comunicar") },
             modifier = Modifier.fillMaxWidth()
         )
 
