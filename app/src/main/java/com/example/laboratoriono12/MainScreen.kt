@@ -28,7 +28,7 @@ fun MainScreen(navController: NavController) {
         verticalArrangement = Arrangement.Center
     ) {
         Text(
-            "Bienvenido a la Aplicación de Síntomas",
+            "Bienvenido a SaludDirecta",
             fontSize = 22.sp,
             color = MaterialTheme.colorScheme.primary,
             modifier = Modifier.padding(bottom = 32.dp)
